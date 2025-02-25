@@ -529,9 +529,6 @@ def collaborative_example():
     product_ID = product_names.index(i)
     correlation_product_ID = correlation_matrix[product_ID]
     
-    # we can find top correlated items
-    # ...
-    # for demonstration, skip the rest
 
 # ----------------------------------------------------------------------
 # MAIN or TEST
