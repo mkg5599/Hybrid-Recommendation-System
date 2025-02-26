@@ -1,5 +1,8 @@
 # E-Commerce Recommender System
 
+## Output Image:
+<img width="812" alt="Screenshot 2025-02-26 at 1 00 05 AM" src="https://github.com/user-attachments/assets/4d416747-ce56-4b9d-bda4-5a3cc9ebc5f7" />
+
 ## Project Overview  
 In today's digital landscape, e-commerce platforms thrive on **personalized recommendations** to enhance user experience and drive sales. This project implements a **Hybrid recommendation system** that combines **Content-Based Filtering** and **Collaborative Filtering** techniques to provide intelligent and highly relevant product recommendations.
 
